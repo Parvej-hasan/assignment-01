@@ -138,189 +138,189 @@ nav .menu a {
 .B {
     margin-top: 32px;
 }
-.section-heading
-{
-    
+
+.section-heading {
+
     text-align: center;
     margin: 0 auto;
-    padding-top:50px;
+    padding-top: 50px;
 }
-.section-heading h2
-{
+
+.section-heading h2 {
     font-size: 48px;
-    line-height:58px ;
+    line-height: 58px;
     color: #001931;
     text-align: center;
     font-weight: 700;
 
 }
-.section-heading p
-{
-   font-size: 16px;
-   line-height: 20px;
-   color: #627382;
-   padding-top: 16px;
+
+.section-heading p {
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+    padding-top: 16px;
 }
 
-#skills
-{
+/* #skills {
     width: 1600px;
-   
-}
-.skills-container 
-{
+
+} */
+
+.skills-container {
     max-width: 1360px;
-    margin:0 auto;
+    margin: 0 auto;
 }
-.skill-box
-{
+
+.skill-box {
     display: flex;
-    gap:24px;
+    gap: 24px;
     padding-top: 44px;
-  
-  
+     max-width: 1360px;
 
-    
+
+
+
+
 
 }
-.skill-box .skill-card
-{
+
+.skill-box .skill-card {
     padding: 24px;
     max-width: 322px;
-    box-shadow: 0  0 8px  0 #00000041;
-    
-    
+    box-shadow: 0 0 8px 0 #00000041;
+
+
 
 }
-.skill-card img{
-   max-width: 60px;
-    margin-bottom:16px ;
-    background-color:#F95555;
+
+.skill-card img {
+    max-width: 60px;
+    margin-bottom: 16px;
+    background-color: #F95555;
     margin-top: 69;
     margin-left: 131px;
     margin-right: 131px;
     margin-bottom: 16px;
-   
-    
-    
+
+
+
 }
-.skill-card h3{
+
+.skill-card h3 {
     font-size: 24px;
     text-align: center;
     line-height: 29px;
     font-weight: 600;
     margin-top: 16px;
     margin-bottom: 16px;
-    
+
 }
-.skill-card p
-{
+
+.skill-card p {
     font-size: 16px;
     line-height: 20px;
     text-align: center;
     font-weight: 400;
     color: #627382;
 }
-#second-banner
-{
+
+#second-banner {
     padding: 120px 120px 120px 120px;
     display: flex;
     gap: 60px;
+    width: 1600px; 
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
 }
-.S-banner-content
-{
+
+.S-banner-content {
     max-width: 700px;
 }
 
-   #second-banner .S-banner-content h6
-   {
+#second-banner .S-banner-content h6 {
     font-size: 16px;
     line-height: 20px;
     text-align: left;
     color: #469165;
-   }
- #second-banner .S-banner-content h3
- {
-   font-size: 48px;
-   line-height: 58px;
-   text-align: left;
-   font-style: bold;
-   font-weight: 700;
-   width: 700px;
+}
 
- }
-  #second-banner .S-banner-content p{
+#second-banner .S-banner-content h3 {
+    font-size: 48px;
+    line-height: 58px;
+    text-align: left;
+    font-style: bold;
+    font-weight: 700;
+    width: 700px;
+
+}
+
+#second-banner .S-banner-content p {
     font-size: 16px;
     line-height: 20px;
     color: #627382;
     margin-top: 16px;
-  }
- nav .S-menu li
-{
-    
+}
+
+nav .S-menu li {
+
     font-size: 16px;
     margin-top: 40px;
     color: #001931;
-   
-    
+
+
 }
-#last-body
-{
+
+#last-body {
     text-align: center;
-      padding: 2px 120px 120px 120px ;  
-   
+    padding: 2px 120px 120px 120px;
+
 }
- #last-body .lb
- {
-  padding: 40px 80px;  
-  background-color: #F7F6F2;
+
+#last-body .lb {
+    padding: 40px 80px;
+    background-color: #F7F6F2;
 }
-  
- 
-#last-body .lb h1
-{
+
+
+#last-body .lb h1 {
     font-size: 40px;
     line-height: 48px;
     font-weight: 700;
 }
-#last-body .lb p{
+
+#last-body .lb p {
     font-size: 16px;
     line-height: 24px;
     color: #627382;
     text-align: center;
 }
-.footer-container
-{
+
+.footer-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding:120px 120px 30px 120px;
+    padding: 120px 120px 30px 120px;
     background-color: #001931;
-    
+
 }
-.social h6
-{
+
+.social h6 {
     color: #FFFFFF;
     font-size: 20px;
     line-height: 28px;
 
 }
-  .f-img
-  {
+
+.f-img {
     width: 350px;
-  } 
-  .foot
-  {
+}
+
+.foot {
     text-align: center;
- background-color:#001931 ;
- color: #FFFFFF;
- font-size: 16px;
+    background-color: #001931;
+    color: #FFFFFF;
+    font-size: 16px;
 
-  }
-
-
-
-
-
-
- 
+}
